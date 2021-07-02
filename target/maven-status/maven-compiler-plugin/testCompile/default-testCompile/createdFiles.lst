@@ -1,0 +1,3 @@
+org\lookout\expense_share\SimplifyDebtUnitTest.class
+org\lookout\expense_share\GroupExpenseIntegrationTest.class
+org\lookout\expense_share\UserExpenseIntegrationTest.class
